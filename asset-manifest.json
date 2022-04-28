@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.548de688.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.548de688.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.274ead92.chunk.js": "/expo-gh-pages/static/js/2.274ead92.chunk.js",
-    "static/js/2.274ead92.chunk.js.map": "/expo-gh-pages/static/js/2.274ead92.chunk.js.map",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.274ead92.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.274ead92.chunk.js.LICENSE.txt"
+    "app.js": "/MDWeb/gh-pages/static/js/app.548de688.chunk.js",
+    "app.js.map": "/MDWeb/gh-pages/static/js/app.548de688.chunk.js.map",
+    "runtime~app.js": "/MDWeb/gh-pages/static/js/runtime~app.48d3b16d.js",
+    "runtime~app.js.map": "/MDWeb/gh-pages/static/js/runtime~app.48d3b16d.js.map",
+    "static/js/2.274ead92.chunk.js": "/MDWeb/gh-pages/static/js/2.274ead92.chunk.js",
+    "static/js/2.274ead92.chunk.js.map": "/MDWeb/gh-pages/static/js/2.274ead92.chunk.js.map",
+    "index.html": "/MDWeb/gh-pages/index.html",
+    "manifest.json": "/MDWeb/gh-pages/manifest.json",
+    "serve.json": "/MDWeb/gh-pages/serve.json",
+    "static/js/2.274ead92.chunk.js.LICENSE.txt": "/MDWeb/gh-pages/static/js/2.274ead92.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
+    "static/js/runtime~app.48d3b16d.js",
     "static/js/2.274ead92.chunk.js",
     "static/js/app.548de688.chunk.js"
   ]
