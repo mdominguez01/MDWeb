@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.919649b2.js",
-    "static/js/705.64119e19.js": "/static/js/705.64119e19.js",
+    "main.js": "/static/js/main.1c28860a.js",
+    "static/js/380.f97d1c07.js": "/static/js/380.f97d1c07.js",
+    "static/media/app_ecv.png": "/static/media/app_ecv.42e7070ea67bd1528454.png",
+    "static/media/FontAwesome5_Solid.ttf": "/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
     "static/media/app_ama.png": "/static/media/app_ama.a24a161c1eff4e64d55d.png",
+    "static/media/FontAwesome5_Brands.ttf": "/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
     "static/media/profile.jpg": "/static/media/profile.7cb3bf7739657c882e1a.jpg",
-    "static/media/apple.png": "/static/media/apple.5162cb124464dd2baace.png",
-    "static/media/android.png": "/static/media/android.c71ca4a86cfc80151b42.png",
+    "static/media/app_ca.png": "/static/media/app_ca.0db3bf37560cf3bc9561.png",
+    "static/media/FontAwesome5_Regular.ttf": "/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
     "index.html": "/index.html",
     "serve.json": "/serve.json",
     "manifest.json": "/manifest.json",
-    "main.919649b2.js.map": "/static/js/main.919649b2.js.map",
-    "705.64119e19.js.map": "/static/js/705.64119e19.js.map"
+    "main.1c28860a.js.map": "/static/js/main.1c28860a.js.map",
+    "380.f97d1c07.js.map": "/static/js/380.f97d1c07.js.map"
   },
   "entrypoints": [
-    "static/js/705.64119e19.js",
-    "static/js/main.919649b2.js"
+    "static/js/380.f97d1c07.js",
+    "static/js/main.1c28860a.js"
   ]
 }
